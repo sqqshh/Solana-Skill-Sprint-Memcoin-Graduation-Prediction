@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+catboost
+aiohttp
+nest_asyncio
+tqdm
