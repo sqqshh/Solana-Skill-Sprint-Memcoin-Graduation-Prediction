@@ -61,6 +61,20 @@ Evaluation Metric:
 
 ---
 
+# Feature Engineering Overview
+
+![Feature Overview](assets/feature_overview.png)
+
+This diagram summarizes the major categories of engineered features used in the final CatBoost model, including:
+- liquidity dynamics
+- creator wallet behavior
+- meme/text analysis
+- IPFS metadata enrichment
+- social presence indicators
+- trading activity statistics
+
+---
+
 # Dataset
 
 The dataset contains:
@@ -339,7 +353,7 @@ solana-memecoin-graduation-prediction/
 Clone repository:
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/sqqshh/Solana-Skill-Sprint-Memcoin-Graduation-Prediction.git
 cd solana-memecoin-graduation-prediction
 ```
 
