@@ -50,7 +50,7 @@ Evaluation Metric:
 
 # Final Ranking
 
-🏆 **Top 13 Global Rank**
+🏆 [**Top 13 Global Rank**](https://www.kaggle.com/competitions/solana-skill-sprint-memcoin-graduation/leaderboard)
 
 ---
 
